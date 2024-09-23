@@ -1,8 +1,8 @@
 # Hi there, I'm Oubaidallah 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=oubaid0allah0ayari&color=blue)
 
-![Profile Picture](https://media.licdn.com/dms/image/v2/D4D03AQERBgRf6wosRw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727106937383?e=1732752000&v=beta&t=L1RqSHZkMDvkfZq24IIaXMrj-Wg4rI3NDxAQizzI9ZE)  
+
+
 I’m a **Computer Science Student** from Tunisia, passionate about **Machine Learning** and **Problem Solving**.  
 Currently studying **Big Data** and working on various projects involving **Linear Regression**.
 
