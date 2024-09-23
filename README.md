@@ -44,7 +44,7 @@ I love exploring open-source projects, solving coding challenges, and contributi
 
 ### 📫 **Connect with Me:**
 
-- Gmail: [My Gmail](oubaidallahayari490@gmail.com)
+
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ayari-oubaidallah-92633b264/)
-- Codeforces: [My Codeforces](https://codeforces.com/profile/oubaidallahayari490)
+
 
