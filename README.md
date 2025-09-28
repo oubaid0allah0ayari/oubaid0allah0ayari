@@ -44,18 +44,19 @@ I love exploring open-source projects, solving coding challenges, and contributi
 # GitHub Breakout Game
 
 
+# GitHub Breakout Game
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="example/dark-no-ghost.svg"
+    srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="example/light-no-ghost.svg"
+    srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="example/light-no-ghost.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg" />
 </picture>
-
 _Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
 
 ### 📫 **Connect with Me:**
