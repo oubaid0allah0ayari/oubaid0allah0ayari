@@ -1,9 +1,11 @@
-name: generate breakout svg
+name: Generate Breakout SVG
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Run daily at midnight
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches: [ main ]
 
 jobs:
   generate-svg:
@@ -16,10 +18,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1
         with:
-          github_username: ${{ github.repository_owner }}
+          github_username: oubaid0allah0ayari
+          enable_ghost_bricks: true
 
       - name: Move generated SVGs to temp
         run: |
@@ -32,12 +35,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and force-push SVGs to target branch
+      - name: Commit and push SVGs to breakout branch
         run: |
-          git checkout --orphan github-breakout
-          git rm -rf .
-          mkdir images
+          git checkout --orphan github-breakout || git checkout github-breakout
+          git rm -rf . || true
+          mkdir -p images
           mv /tmp/breakout-images/* images/
           git add images
-          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+          git commit -m "Update GitHub breakout SVGs - $(date)" || echo "No changes to commit"
           git push --force origin github-breakout
