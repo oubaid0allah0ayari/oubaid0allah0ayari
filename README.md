@@ -40,16 +40,17 @@ Currently studying **Big Data** and working on various projects involving **Line
 ### ⚡ **Fun Fact:**
 I love exploring open-source projects, solving coding challenges, and contributing to the developer community!
 
+## 🎮 GitHub Breakout Game
 
-## GitHub Breakout Game
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg">
+    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg">
+  </picture>
+</div>
 
-![Breakout Game](./breakout.svg)
-
-*Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)*
-
-
-_Interactive GitHub contribution breakout game_
-_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+*An interactive breakout game generated from my GitHub contributions*
 
 ---
 ### 📫 **Connect with Me:**
