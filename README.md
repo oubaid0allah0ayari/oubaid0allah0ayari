@@ -26,7 +26,6 @@
 - 💻 Motivated **Engineering Student**  with a **Bachelor in Big Data & Data Analytics**  
 - 💼 Experienced in **Python, C++, Django, React, and MongoDB**, with hands-on projects in data science and AI  
 - 🌐 Skilled in **Machine Learning, Big Data (Hadoop & Spark), Data Analysis, Web & Full-Stack Development**  
-- 💬 Ask me about **AI solutions, data-driven applications, and efficient software systems**  
 - 📫 Contact me: [oubaidallahayari490@gmail.com](mailto:oubaidallahayari490@gmail.com)  
 - 📄 Portfolio: [GitHub Projects](https://github.com/oubaid0allah0ayari)  
   
