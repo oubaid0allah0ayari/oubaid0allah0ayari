@@ -22,7 +22,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: oubaid0allah0ayari
-          enable_ghost_bricks: true
+          enable_ghost_bricks: false
 
       - name: Move generated SVGs to temp
         run: |
