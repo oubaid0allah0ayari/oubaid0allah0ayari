@@ -43,16 +43,17 @@ I love exploring open-source projects, solving coding challenges, and contributi
 ---
 # GitHub Breakout Game
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/github-breakout/images/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/github-breakout/images/breakout-light.svg"
+    srcset="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/oubaid0allah0ayari/oubaid0allah0ayari/github-breakout/images/breakout-light.svg" />
 </picture>
 
 ### 📫 **Connect with Me:**
