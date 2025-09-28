@@ -41,12 +41,18 @@
 </table>
 
 ---
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ayari-oubaidallah-92633b264/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oubaidallah Ayari" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="Oubaidallah Ayari LinkedIn" height="50" width="60" />
   </a>
-  
+  <a href="https://www.kaggle.com/ayarioubaidallah/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Oubaidallah Ayari Kaggle" height="50" width="60" />
+  </a>
+  <a href="https://huggingface.co/oubad/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Oubaidallah Ayari HuggingFace" height="50" width="60" />
+  </a>
 </p>
 
 ---
