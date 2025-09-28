@@ -40,9 +40,12 @@ Currently studying **Big Data** and working on various projects involving **Line
 ### ⚡ **Fun Fact:**
 I love exploring open-source projects, solving coding challenges, and contributing to the developer community!
 
----
+
 ## GitHub Breakout Game
 
+![Breakout Game](./breakout.svg)
+
+*Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)*
 
 
 _Interactive GitHub contribution breakout game_
