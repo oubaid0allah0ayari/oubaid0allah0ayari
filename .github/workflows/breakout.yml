@@ -19,7 +19,7 @@ jobs:
       - name: generate SVG
         uses: cyprieng/github-breakout@v1
         with:
-          github_username: oubaid0allah0ayari
+          github_username: ${{ github.repository_owner }}
 
       - name: Move generated SVGs to temp
         run: |
