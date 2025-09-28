@@ -29,18 +29,18 @@ jobs:
           mkdir -p /tmp/breakout-images
           mv output/light.svg /tmp/breakout-images/breakout-light.svg
           mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
-
+      
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+           git config user.name "github-actions[bot]"
+           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push SVGs to breakout branch
+      - name: Commit and force-push SVGs to breakout branch
         run: |
-          git checkout --orphan github-breakout || git checkout github-breakout
-          git rm -rf . || true
-          mkdir -p images
-          mv /tmp/breakout-images/* images/
-          git add images
-          git commit -m "Update GitHub breakout SVGs - $(date)" || echo "No changes to commit"
-          git push --force origin github-breakout
+           git checkout --orphan github-breakout
+           git rm -rf .
+           mkdir images
+           mv /tmp/breakout-images/* images/
+           git add images
+           git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
+           git push --force origin github-breakout
